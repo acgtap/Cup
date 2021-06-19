@@ -1,9 +1,12 @@
 // array of Monitor-specific API keys or Main API key to list all monitors
 var __apiKeys = [
-	'ur633808-e12778159366614da6c89d16', //首页
-	'm781008989-d733d5cad6067bd47e953910', //接口
-	'm781008987-a77ea08c1726017c2f091e9c', //菜单
-	'm781008994-10980b10ef52cb2ddf0c895d',
+	'm788455565-7048ab826ef1b99132b6b7d5', //首页
+	'm788455576-eacf110c60384da900f57d0c', //接口
+	'm788455564-39a4a0251291ca0b13871200', //菜单
+	'm788455558-af346fba8b329593a7311ab2',
+	'm788455578-85a27e654a54f2bcdc15ba84',
+	'm788455571-c9ec9cf8e0ed5e3db72a01eb',
+	'm788455567-3527df8af08efc02f5903fe2'
 ];
 
 // refresh interval (in seconds)
